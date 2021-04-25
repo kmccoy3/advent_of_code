@@ -1,7 +1,6 @@
 # Advent of Code 🎄🎁
-Repository for my personal Advent of Code solutions.
 
-Hello! Welcome to my advent_of_code repository! 
+Hello! Welcome to my advent_of_code repository! This is a repository for my personal Advent of Code solutions.
 
 ### Notes:
 * I will be adding to this repository as I finish each puzzle. 
