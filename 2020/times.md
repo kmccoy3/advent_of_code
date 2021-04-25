@@ -1,6 +1,6 @@
 
 # Advent of Code 2020 Time Sheet
-* Day 1: 1.1201300621032715
+* Day 1: 0.147047758102417
 * Day 2:
 * Day 3:
 * Day 4:
