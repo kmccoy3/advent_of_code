@@ -1,11 +1,13 @@
 
-# Advent of Code 2020 Time Sheet
+# Advent of Code 2021 Time Sheet
 All times given in seconds. 
 
 * Day 1:
     * Part 1: 0.019474029541015625
     * Part 2: 0.015707969665527344
 * Day 2:
+    * Part 1: 0.0012080669403076172
+    * Part 2: 0.0010068416595458984
 * Day 3:
 * Day 4:
 * Day 5:
