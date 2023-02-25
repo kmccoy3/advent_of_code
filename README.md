@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Advent of Code 🎄🎁
 
 Hello! Welcome to my advent_of_code repository! This is a repository for my personal Advent of Code solutions.
@@ -31,7 +30,3 @@ advent_of_code
     │
     │   ...
 ```
-=======
-# advent_of_code
-Repository for my personal Advent of Code solutions.
->>>>>>> 2020
