@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 
+# Ignore mac files
 .DS_Store
+
+# Ignore input files
 *.csv
-=======
-
-.DS_Store
->>>>>>> 2020
+*.txt
