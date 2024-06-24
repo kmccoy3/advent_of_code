@@ -1,32 +1,6 @@
 # Advent of Code 🎄🎁
 
-Hello! Welcome to my advent_of_code repository! This is a repository for my personal Advent of Code solutions.
+Hello! This is a repository for my personal Advent of Code solutions.
 
-### Notes:
-* I will be adding to this repository as I finish each puzzle. 
-* I will create a unique branch for each year and merge it with main when I complete all 50 stars.
-
-The structure of this repository follows this format:
-```bash
-advent_of_code
-│   README.md
-│   LICENSE
-│   .gitignore
-│
-└───2020
-│   │   times.md
-│   │
-│   └───day_1
-│   │   │   day_1.py
-│   │   │   input.txt
-│   │
-│   └───day_2
-│   │   │   
-│   │   │   ...
-│   │
-│   │   ...
-│   
-└───2019
-    │
-    │   ...
-```
+### Current Progress
+2023: 4 ⭐️, 5.175 ms
