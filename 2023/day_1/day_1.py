@@ -1,5 +1,5 @@
 
-"""Advent of Code 2021 Day 1."""
+"""Advent of Code 2023 Day 1."""
 
 # Import necessary libraries
 import time
