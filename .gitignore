@@ -1,4 +1,7 @@
 
+# Ignore output times.md file
+times.md
+
 # Ignore mac files
 .DS_Store
 
